@@ -42,12 +42,12 @@
 ## 🧩 Projets récents
 
 - 🎯 [P14-HRNet](https://github.com/Melba17/P14-HRNet) – Migration jQuery → React, accessibilité, composants personnalisés
-- 🏋️‍♀️ [P12-SportSee](https://github.com/Melba17/P12-SportSee) – Dashboard React avec graphiques et appel API
+- 🏋️‍♀️ [P12-SportSee](https://github.com/Melba17/P12-SportSee) – Dashboard React avec graphiques et appels API
 - 🏡 [P11-Kasa](https://github.com/Melba17/P11-Kasa) – Création d’une application de locations immobilières avec React et React Router
 - 🍽️ [P7-Les-Petits-Plats](https://github.com/Melba17/P7-Les-Petits-Plats) – Moteur de recherche avancé avec JS pur
 
 ---
-
+          
 ## 🤝 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eb1206)
@@ -56,6 +56,6 @@
 ---
 
 <p align="center">
-  Merci d’avoir pris le temps de visiter mon profil GitHub 🙏 </ br> 
-  Si mon profil vous interpelle, je serais ravie de discuter de vos projets ou opportunités !
+  Merci d’avoir pris le temps de visiter mon profil GitHub 🙏<br>
+  <strong>Si mon profil vous interpelle,<br>je serais ravie de discuter de vos projets ou opportunités !</strong>
 </p>
