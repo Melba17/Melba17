@@ -50,12 +50,12 @@
 
 ## 🤝 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eb1206)
-📫 Email : evabancerowski77@gmail.com
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eb1206)
+> 📫 Email : evabancerowski77@gmail.com
 
 ---
 
 <p align="center">
-  Merci d’avoir pris le temps de visiter mon profil GitHub 🙏  
-  Si mon profil vous interpelle, je serais ravie de discuter de vos projets ou opportunités !
+  > Merci d’avoir pris le temps de visiter mon profil GitHub 🙏  
+  > Si mon profil vous interpelle, je serais ravie de discuter de vos projets ou opportunités !
 </p>
