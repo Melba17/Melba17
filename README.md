@@ -50,7 +50,7 @@
           
 ## 🤝 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eb1206)<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eb1206)<br>
 📫 **Email** : evabancerowski77@gmail.com
 
 ---
