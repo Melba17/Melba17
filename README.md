@@ -57,5 +57,5 @@
 
 <p align="center">
   Merci d’avoir pris le temps de visiter mon profil GitHub 🙏<br>
-  <strong>Si mon profil vous interpelle,<br>je serais ravie de discuter de vos projets ou opportunités !</strong>
+  <strong>Si celui-ci vous interpelle,<br>je serais ravie de discuter de vos projets ou opportunités !</strong>
 </p>
