@@ -19,7 +19,7 @@
 > **Développeuse d'application JavaScript React**  
 > 🏫 Organisme : OpenClassrooms  
 > 📅 Dates : 2024–2025  
-> 🧠 Compétences clés : HTML, CSS, JavaScript, React, Redux, API REST, accessibilité... 
+> 🧠 Compétences clés : HTML, CSS, JavaScript, React, Redux, API REST, accessibilité...<br> 
 > 📜 Diplôme enregistré au RNCP (niveau 6 – bac+3/4)
 
 ---
