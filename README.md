@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://book-dev-five.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🎨 Portfolio-Mon%20book-green?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🎨 Portfolio-Mon%20book%20Dev-green?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
